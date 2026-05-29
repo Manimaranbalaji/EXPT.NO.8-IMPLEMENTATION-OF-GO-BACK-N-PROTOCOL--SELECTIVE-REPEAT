@@ -1,4 +1,4 @@
-# EXP.NO.9 IMPLEMENTATION OF GO-BACK-N-PROTOCOL SELECTIVE-REPEAT
+# IMPLEMENTATION OF GO-BACK-N-PROTOCOL SELECTIVE-REPEAT
 # AIM:
 To write and execute a program for Go-Back-N protocol-Selective Repeat.
 # EQUIPMENTS REQUIRED:
@@ -48,15 +48,8 @@ printf("\n Sending frame %d \n FRAME ACKNOWLEDGED.	\n",j);
 printf("\n\nALL FRAME RECIEVED SUCCESSFULLY\n\n");
 }
 ~~~
-OUTPUT:
-
- <img width="1600" height="897" alt="image" src="https://github.com/user-attachments/assets/9a908bd4-295f-4c3f-867b-d5deb360c59e" />
-
-
-
-
-
-
+# OUTPUT:
+<img width="799" height="663" alt="Screenshot 2026-05-27 155826" src="https://github.com/user-attachments/assets/60ab8b75-7a95-4c0b-85c6-1da4cb26f304" />
 
 # RESULT:
 Thus the Go-Back-N protocol- Selective Repeat was implemented and the output is verified successfully.
