@@ -49,7 +49,7 @@ printf("\n\nALL FRAME RECIEVED SUCCESSFULLY\n\n");
 }
 ~~~
 # OUTPUT:
-<img width="799" height="663" alt="Screenshot 2026-05-27 155826" src="https://github.com/user-attachments/assets/60ab8b75-7a95-4c0b-85c6-1da4cb26f304" />
+<img width="1522" height="1320" alt="image" src="https://github.com/user-attachments/assets/76ce900b-7bc4-497c-8fe3-0c8e24ed4821" />
 
 # RESULT:
 Thus the Go-Back-N protocol- Selective Repeat was implemented and the output is verified successfully.
